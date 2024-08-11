@@ -1,3 +1,3 @@
-n=float(input())
-sum=(n*(n+1))/2
-print('{:.0f}'.format(sum))
+n=int(input())
+x=n*((n+1)/2)
+print('{:.0f}'.format(x))
